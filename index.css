@@ -1,0 +1,147 @@
+.container{
+    
+    color: #23B3CB;
+    display: flex;
+    max-width: 1064px;
+    margin: 10px auto;
+
+  }
+  h1{
+    font-weight: 500;
+    font-size: 40px;
+  }
+  
+  .yellow{
+    color: #F9BC0B;
+  }
+  .grey{
+    color: grey;
+  }
+  h2{
+    font-weight: 500;
+    font-size: 34px;
+  }
+  h5{
+    font-weight: 500;
+    font-size: 22px;
+  }
+  .darkBlue{
+    color: #214E63;
+  }
+  .column1{
+    border-left: 3px dashed #23B3CB;
+  }
+  .sub1{
+    text-align: center;
+  }
+  .sub1 p{
+    margin: 10px 0px 15px 0;
+  }
+  .sub2, .sub4{
+    margin-right: 10px;
+  }
+  
+  h3{
+    font-size: 30px;
+    font-weight: 500;
+  }
+  h4{
+    font-weight: 500;
+    font-size: 28px;
+    text-align: center;
+  }
+  .sub7{
+    height: 470px;
+  }
+  .healthyEating{
+    height: 105px;
+    display: flex;
+    align-items: center;
+  }
+  .healthyEatingHeading{
+    display: block;
+    padding: 15px 0 0 15px;
+  }
+  .healthyEating h4{
+    margin: 0px 15px 0px 15px;
+  }
+  .healthyEating h1{
+    margin: 0px 15px 0px 0px;
+  }
+  .sub6, .sub8{
+    margin-left: 10px;
+  }
+  .decoration{
+    height: 0px;
+    color: white;
+    text-align: center;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 7px solid #19AEC2;
+    border-bottom: 5px solid #19AEC2;
+  }
+  .sub3{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  .flexbox{
+    height: 175px;
+    display: flex;
+  }
+  .sub3-content1, .sub3-content2{
+    width: 50%;
+    margin: 5px;
+  }
+  .icecream{
+    height: 150px;
+    padding-top: 50px;
+    padding-left: 50px;
+  }
+  .sub3-content{
+    height: 175px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub3-content img{
+    height: 125px;
+  }
+  .sub5{
+    display: flex;
+  }
+  .adult, .young, .children{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .aContent, .yContent, .cContent{
+    width: 110px;
+  }
+  .diabetes, .cancer, .stroke{
+    display: flex;
+    align-items: center;
+  }
+  .sub9 img{
+    margin: 0 15px 0 15px;
+  }
+  .diabetesContent, .strokeContent, .cancerContent{
+    margin: 15px 0 15px 0;
+  }
+  .sub5-content1{
+    text-align: right;
+    margin: 0 65px 0 10px;
+  }
+  .sub5-content2 img{
+    margin: 15px 0 15px 0;
+  }
+  .y500{
+    font-size: 42px;
+    line-height: 0.75;
+    font-weight: 500;
+    color: #F9BC0B;
+    text-align: right;
+  }
+  
